@@ -44,7 +44,7 @@ This task gave me hands-on experience in working with a real-world dataset and h
 | Task   | Topic                                    | Status      |
 | ------ | ---------------------------------------- | ----------- |
 | Task 1 | Population Data Analysis & Visualization | ✅ Completed |
-| Task 2 | —                                        | 🔄 Upcoming |
+| Task 2 | Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic Dataset. | ✅ Completed  |
 | Task 3 | —                                        | 🔄 Upcoming |
 | Task 4 | —                                        | 🔄 Upcoming |
 More tasks and projects will be added as I progress through the internship.
